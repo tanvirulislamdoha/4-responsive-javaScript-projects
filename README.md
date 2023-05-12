@@ -16,7 +16,7 @@ This project is designed to be accessible and easy to use for all users. It feat
 
 ## Installation
 
-To install my project locally, simply clone this repository: `git clone https://github.com/tanvirulislamdoha/html-css-responsive-projects.git`
+To install my project locally, simply clone this repository: `git clonehttps://github.com/tanvirulislamdoha/10-responsive-javaScript-projects.git`
 
 
 ## Features
